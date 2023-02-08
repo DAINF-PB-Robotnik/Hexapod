@@ -1,1 +1,2 @@
 # Hexapod
+Um robô hexapod é um tipo de robô com seis pernas. Ele é projetado para imitar o movimento e a estabilidade de um inseto. Os robôs hexapod geralmente são programados para realizar tarefas específicas, como andar em terrenos irregulares, equilibrar objetos pesados e realizar tarefas repetitivas. Eles também podem ser programados para se adaptar a situações inesperadas e evitar obstáculos. A vantagem dos robôs hexapod é a sua capacidade de se movimentar em várias direções e ter estabilidade em superfícies irregulares.
