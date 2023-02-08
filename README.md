@@ -3,7 +3,7 @@ Um robô hexapod é um tipo de robô com seis pernas. Ele é projetado para imit
 
 REFERÊNCIAS
 
-VORPAL ROBOTICS (Estados Unidos). Vorpal The Hexapod Assembly Instructions. 2018. Disponível em: Vorpal The Hexapod Assembly Instructions. Acesso em: 8 ago. 2022.
+VORPAL ROBOTICS (Estados Unidos). Vorpal The Hexapod Assembly Instructions. 2018. Disponível em: https://vorpalrobotics.com/wiki/index.php/Vorpal_The_Hexapod_Assembly_Instructions. Acesso em: 8 ago. 2022.
 
 VORPAL Hexapod Assembly Guide Part 1 - Robot. Stockholm: Teaching Tech, 2018. (25 min.), son., color. Disponível em: https://www.youtube.com/watch?v=cf1dBCwsE0o. Acesso em: 8 ago. 2022.
 
