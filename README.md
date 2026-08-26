@@ -120,3 +120,13 @@ VORPAL Hexapod Assembly Guide Part 1 - Robot. Stockholm: Teaching Tech, 2018. (2
 VORPAL ROBOTICS (Estados Unidos). Vorpal The Hexapod Walking Robot. 2017. Hospedado em UltiMaker Thingiverse. Disponível em: https://www.thingiverse.com/thing:2513566. Acesso em: 8 ago. 2022.
 
 ROBOTICS, Vorpal. Vorpal The Hexapod Walking Robot. 2017. Hospedado em Dropbox. Disponível em: https://www.dropbox.com/sh/0stxwsw918kfwa3/AADD3QPzPoBBowBSvhDh1UINa/STL/A-HEXAPOD/ROBOT?dl= 0 & subfolder_nav_tracking=1. Acesso em: 8 ago. 2022.
+
+## Organização
+
+**Robotnik - DAINF-PB**  
+Departamento Acadêmico de Informática - UTFPR, Campus Pato Branco.
+
+Orientador: Vinicius Pegorini
+- Aluno: Bruno de Macedo Guerreiro
+- Aluno: Guilherme Rodrigues dos Santos
+- Aluno: Luiz Eduardo Caldas Kramer
