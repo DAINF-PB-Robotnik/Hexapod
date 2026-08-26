@@ -127,6 +127,5 @@ ROBOTICS, Vorpal. Vorpal The Hexapod Walking Robot. 2017. Hospedado em Dropbox. 
 Departamento Acadêmico de Informática - UTFPR, Campus Pato Branco.
 
 Orientador: Vinicius Pegorini
-- Aluno: Bruno de Macedo Guerreiro
 - Aluno: Guilherme Rodrigues dos Santos
-- Aluno: Luiz Eduardo Caldas Kramer
+- Aluno: João Vitor Kaszuba
