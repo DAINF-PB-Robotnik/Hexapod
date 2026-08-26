@@ -5,7 +5,7 @@
 > Robô hexapod azul para demonstrações de robótica e locomoção com múltiplas pernas.
 
 <p align="center">
-  <img src="docs/assets/capa-hexapod.png" alt="Imagem de capa do projeto Hexapod" width="900" />
+  <img src="docs/assets/robotnik-hexapod.png" alt="Imagem de capa do projeto Hexapod" width="900" />
 </p>
 
 ## Sumário
